@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TimedNotification</string>
+    <string name="key_switch">key_switch</string>
+    <string name="switch_title">Scheduled Notification</string>
+</resources>
